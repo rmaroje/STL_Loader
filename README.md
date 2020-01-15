@@ -6,8 +6,8 @@ Project was created on Visual Studio Community 2017 Version 15.9.18.
 
 Prerequistes:
 
-GLFW
-GLEW or GLAD
+GLFW,
+GLEW or GLAD,
 GLM
 
 
